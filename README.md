@@ -1,2 +1,2 @@
-I’m currently learning Java:)
-😄Pronouns: NotImportant
+- I’m currently learning Java:)
+- 😄Pronouns: NotImportant
