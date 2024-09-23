@@ -1,18 +1,15 @@
 <h1 align="center">Hi👋, I'm Seraph</h1>
 <img align="center" src="https://visitcount.itsvg.in/api?id=Seraph2005&label=Profile%20Views&color=7&icon=0&pretty=true"><br>
-<h3 align="center">A passionate programmer from Iran.</h3>
 
-- 🔭 I’m currently working on my UI project, [Responsive StartUp](https://github.com/Seraph2005/ResponsiveStartup)
-
-- 🌱 I’m currently learning **HTML/Css programming**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Seraph2005](https://github.com/Seraph2005)
-
-- 📫 How to reach me **sepid.hoseiny2005@gmail.com**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Seraph2005&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=true" height="120" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Seraph2005&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=transparent&hide_border=true" height="95" alt="languages graph"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Seraph2005&theme=transparent" height="120" alt="profile details" />
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sepide hoseiny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sepide hoseiny" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
