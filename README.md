@@ -10,12 +10,27 @@
 <h3>Connect with me:</h3>
 <p align="left">
 
+  <a href="sepid.hoseiny2005@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/sepide_hoseini" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
+  </a>
+  <a href="https://leetcode.com/farid_karimi/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="27" alt="leetcode logo"  />
+  </a>
+  <a href="t.me/sepide_hsa" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=28A6E9&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="telegram logo"  />
+  </a>
+  <a href="https://www.instagram.com/iki_desu._/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=cd486b&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="instagram logo"  />
+  </a>
 </p>
 
 
-<br clear="both" style="padding-bottom: 20px;">
+<br clear="both">
 
-<img align="right" height="170" src=""/>
+<img align="right" height="170" src="C:\Users\LL\Documents\Projects\Seraph\gifs\cat.gif"/>
 
 
 
