@@ -16,7 +16,10 @@
   <a href="https://www.linkedin.com/in/sepide_hoseini" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
   </a>
-  <a href="https://leetcode.com/farid_karimi/" target="_blank">
+  <a href="https://codeforces.com/profile/Sepide2005" target="_blank">
+    <img src="https://img.shields.io/badge/codeforces-FFFFFF?style=for-the-badge&logo=CodeForces&logoColor=#d16c06" height="27" alt="codeforces logo"  />
+  </a>
+  <a href="https://leetcode.com/Sepide2005/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="27" alt="leetcode logo"  />
   </a>
   <a href="t.me/sepide_hsa" target="_blank">
@@ -30,7 +33,7 @@
 
 <br clear="both">
 
-<img align="right" height="170" src="C:\Users\LL\Documents\Projects\Seraph\gifs\cat.gif"/>
+<img align="right" height="170" src="https://github.com/Seraph2005/Seraph2005/blob/main/gifs/cat.gif"/>
 
 
 
