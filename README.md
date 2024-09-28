@@ -1,6 +1,9 @@
 <h1 align="center">Hi👋, I'm Seraph</h1>
 <img align="center" src="https://visitcount.itsvg.in/api?id=Seraph2005&label=Profile%20Views&color=7&icon=0&pretty=true"><br>
 
+
+A passionate CS student at Shahid Beheshti University(SBU), interested in algorithms and have started programming at 2020.
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Seraph2005&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=moltack&locale=en&hide_border=true" height="120" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Seraph2005&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=moltack&hide_border=true" height="120" alt="languages graph"  />
@@ -10,7 +13,7 @@
 <h3>Connect with me:</h3>
 <p align="left">
 
-  <a href="sepid.hoseiny2005@gmail.com" target="_blank">
+  <a href="mailto:sepid.hoseiny2005@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/sepide_hoseini" target="_blank">
