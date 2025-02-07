@@ -1,12 +1,9 @@
 <h1 align="center">Hi👋, I'm Seraph</h1>
-<img align="center" src="https://visitcount.itsvg.in/api?id=Seraph2005&label=Profile%20Views&color=7&icon=0&pretty=true"><br>
-
 
 A passionate CS student at Shahid Beheshti University(SBU), interested in algorithms and have started programming at 2020.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Seraph2005&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=moltack&locale=en&hide_border=true" height="120" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Seraph2005&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=moltack&hide_border=true" height="120" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Seraph2005&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=moltack&hide_border=true" height="120" alt="languages graph"  /><br>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Seraph2005&theme=moltack" height="120" alt="profile details" />
 </div>
 
@@ -33,7 +30,6 @@ A passionate CS student at Shahid Beheshti University(SBU), interested in algori
   </a>
 </p>
 
-
 <br clear="both">
 
 <img align="right" height="170" src="https://github.com/Seraph2005/Seraph2005/blob/main/gifs/cat.gif"/>
@@ -42,6 +38,7 @@ A passionate CS student at Shahid Beheshti University(SBU), interested in algori
 
 <h3>Languages and Tools:</h3>
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="csharp" height="40" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="40" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
