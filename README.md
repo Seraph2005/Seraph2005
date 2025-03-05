@@ -2,7 +2,10 @@
 
 A passionate CS student at Shahid Beheshti University(SBU), interested in algorithms and have started programming at 2020.
 
+
+
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Seraph2005&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=moltack&hide_border=true" height="120" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Seraph2005&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=moltack&hide_border=true" height="120" alt="languages graph"  /><br>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Seraph2005&theme=moltack" height="120" alt="profile details" />
 </div>
