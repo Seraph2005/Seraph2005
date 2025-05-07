@@ -10,6 +10,23 @@ A passionate CS student at Shahid Beheshti University(SBU), interested in algori
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Seraph2005&theme=moltack" height="120" alt="profile details" />
 </div>
 
+<br clear="both">
+
+<img align="right" height="170" src="https://github.com/Seraph2005/Seraph2005/blob/main/gifs/cat.gif"/>
+
+<h3>Languages and Tools:</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="csharp" height="40" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="40" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/qtio/qtio-icon.svg" alt="Qt" width="40" height="40"/>
+</p>
+
+
 <h3>Connect with me:</h3>
 <p align="left">
 
@@ -31,22 +48,5 @@ A passionate CS student at Shahid Beheshti University(SBU), interested in algori
   <a href="https://www.instagram.com/iki_desu._/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=cd486b&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="instagram logo"  />
   </a>
-</p>
-
-<br clear="both">
-
-<img align="right" height="170" src="https://github.com/Seraph2005/Seraph2005/blob/main/gifs/cat.gif"/>
-
-
-
-<h3>Languages and Tools:</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="csharp" height="40" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="40" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
 
